@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.levelbutton {
+  color: red;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid red;
+  padding: 20px;
+  margin: 10px;
+  background-color: lightgrey;
+  font-size: 20px;
+  display: inline-block;
+}

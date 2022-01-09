@@ -1,0 +1,6 @@
+{
+    "tilePathPairs": [
+        ["TilePlayer", "images/Player.png"],
+        ["TileBox", "images/Box.png"]
+    ]
+}

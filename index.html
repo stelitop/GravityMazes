@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="stylesheets/style.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+    <main> 
+
+        <canvas id="gameCanvas" width="400" height="400"></canvas>
+
+        <img src="images/Player.png" id="imgplayer" style="display: none;">
+        <img src="images/PlayerWin.png" id="imgplayerwin" style="display: none;">
+        <img src="images/PlayerLoss.png" id="imgplayerloss" style="display: none;">
+        <img src="images/Crate.png" id="imgcrate" style="display: none;">
+        <img src="images/Wall.png" id="imgwall" style="display: none;">
+        <img src="images/Empty.png" id="imgempty" style="display: none;">
+        <img src="images/Spikes.png" id="imgspikes" style="display: none;">
+        <img src="images/End.png" id="imgdoor" style="display: none;">
+
+        <br>
+
+    </main>
+
+    <script src="javascripts/texturesloader.js"></script>
+    <script src="javascripts/levelloader.js"></script>
+
+    <script src="javascripts/direction.js"></script>
+    <script src="javascripts/tile.js"></script>
+    <script src="javascripts/level.js"></script>
+
+    <script src="javascripts/interaction.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,396 @@
+{
+    "backTiles": [
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Door",
+                "movable": false
+            }
+        ]
+    ],
+    "frontTiles": [
+        [
+            {
+                "type": "Player",
+                "movable": true,
+                "state": 0
+            },
+            null,
+            null,
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            null,
+            null,
+            null
+        ]
+    ],
+    "name": "Gravity",
+    "superlvl": 1,
+    "sublvl": 1,
+    "x": 7,
+    "y": 7
+}

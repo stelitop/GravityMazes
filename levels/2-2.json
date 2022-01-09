@@ -1,0 +1,294 @@
+{
+    "backTiles": [
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Door",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ]
+    ],
+    "frontTiles": [
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "type": "Crate",
+                "movable": true
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            {
+                "type": "Crate",
+                "movable": true
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "type": "Player",
+                "movable": true,
+                "state": 0
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    ],
+    "name": "Name",
+    "superlvl": 2,
+    "sublvl": 2,
+    "x": 7,
+    "y": 7
+}
