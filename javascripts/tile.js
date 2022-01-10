@@ -30,10 +30,12 @@ class Tile {
     static interactionBump(level, x, y, dx, dy) {
         if (level.frontTiles[x][y] == null || level.frontTiles[x+dx][y+dy] == null) return;
 
-        if (level.frontTiles[x][y].type == "Player" && level.frontTiles[x+dx][y+dy].type == "Spikes") {
+        if (level.frontTiles[x][y].type == "Player" && level.frontTiles[x][y].state == 0 && level.frontTiles[x+dx][y+dy].type == "Spikes") {
             level.frontTiles[x][y].state = -1;
-        } else if (level.frontTiles[x][y].type == "Spikes" && level.frontTiles[x+dx][y+dy].type == "Player") {
+            level.frontTiles[x][y].movable = false;
+        } else if (level.frontTiles[x][y].type == "Spikes" && level.frontTiles[x+dx][y+dy].type == "Player" && level.frontTiles[x+dx][y+dy].state == 0) {
             level.frontTiles[x+dx][y+dy].state = -1;
+            level.frontTiles[x+dx][y+dy].movable = false;
         }
     }
 

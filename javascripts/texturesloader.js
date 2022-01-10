@@ -10,7 +10,18 @@
 // img = document.getElementById("imgcrate");
 // ctx.drawImage(img, 40, 0, 40, 40);
 
-const defaultTileSize = 60;
+document.body.innerHTML += 
+"<img class='texture' src='images/Player.png' id='imgplayer' style='display: none;'>" +
+"<img class='texture' src='images/PlayerWin.png' id='imgplayerwin' style='display: none;'>" +
+"<img class='texture' src='images/PlayerLoss.png' id='imgplayerloss' style='display: none;'>" +
+"<img class='texture' src='images/Crate.png' id='imgcrate' style='display: none;'>" +
+"<img class='texture' src='images/Wall.png' id='imgwall' style='display: none;'>" +
+"<img class='texture' src='images/Empty.png' id='imgempty' style='display: none;'>" +
+"<img class='texture' src='images/Spikes.png' id='imgspikes' style='display: none;'>" +
+"<img class='texture' src='images/End.png' id='imgdoor' style='display: none;'>"
+
+
+const defaultTileSize = 50;
 
 var textureLoader = {
     "Player": document.getElementById("imgplayer"),

@@ -14,16 +14,6 @@
     <main> 
 
         <canvas id="gameCanvas" width="400" height="400"></canvas>
-
-        <img src="images/Player.png" id="imgplayer" style="display: none;">
-        <img src="images/PlayerWin.png" id="imgplayerwin" style="display: none;">
-        <img src="images/PlayerLoss.png" id="imgplayerloss" style="display: none;">
-        <img src="images/Crate.png" id="imgcrate" style="display: none;">
-        <img src="images/Wall.png" id="imgwall" style="display: none;">
-        <img src="images/Empty.png" id="imgempty" style="display: none;">
-        <img src="images/Spikes.png" id="imgspikes" style="display: none;">
-        <img src="images/End.png" id="imgdoor" style="display: none;">
-
         <br>
 
     </main>
@@ -36,6 +26,14 @@
     <script src="javascripts/level.js"></script>
 
     <script src="javascripts/interaction.js"></script>
+
+    <script>
+        window.addEventListener("keydown", function(e) {
+            if(["Space","ArrowUp","ArrowDown","ArrowLeft","ArrowRight"].indexOf(e.code) > -1) {
+                e.preventDefault();
+            }
+        }, false);
+    </script>
 
 </body>
 </html>

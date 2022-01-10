@@ -1,0 +1,1017 @@
+{
+    "backTiles": [
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Door",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ]
+    ],
+    "frontTiles": [
+        [
+            {
+                "type": "Player",
+                "movable": true,
+                "state": 0
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Crate",
+                "movable": true
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "type": "Crate",
+                "movable": true
+            },
+            {
+                "type": "Spikes",
+                "movable": true
+            }
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "type": "Crate",
+                "movable": true
+            },
+            {
+                "type": "Spikes",
+                "movable": true
+            },
+            {
+                "type": "Spikes",
+                "movable": true
+            }
+        ]
+    ],
+    "name": "Name",
+    "superlvl": "4",
+    "sublvl": "12",
+    "x": "12",
+    "y": "13"
+}

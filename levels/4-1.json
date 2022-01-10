@@ -1,0 +1,246 @@
+{
+    "backTiles": [
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Empty",
+                "movable": false
+            },
+            {
+                "type": "Door",
+                "movable": false
+            }
+        ]
+    ],
+    "frontTiles": [
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Player",
+                "movable": true,
+                "state": 0
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            }
+        ],
+        [
+            null,
+            null,
+            {
+                "type": "Spikes",
+                "movable": true
+            },
+            null,
+            null
+        ],
+        [
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null
+        ],
+        [
+            null,
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            {
+                "type": "Wall",
+                "movable": false
+            },
+            null
+        ]
+    ],
+    "name": "Name",
+    "superlvl": "4",
+    "sublvl": "1",
+    "x": "6",
+    "y": "5"
+}

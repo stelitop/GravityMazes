@@ -162,26 +162,38 @@ class Level {
     }
 }
 
-
-
 var curGame;
 
 
 
-curGame = new Level(9, 9);
+// curGame = new Level(8, 8);
 
-curGame.frontTiles[7][1] = Tile.Wall();
-curGame.frontTiles[6][2] = Tile.Player();
+// curGame.frontTiles[0][1] = Tile.Crate();
+// curGame.frontTiles[1][1] = Tile.Crate();
+// curGame.frontTiles[2][1] = Tile.Crate();
+// curGame.frontTiles[3][1] = Tile.Crate();
+// curGame.frontTiles[4][1] = Tile.Crate();
 
-curGame.frontTiles[1][7] = Tile.Crate();
-curGame.frontTiles[2][7] = Tile.Crate();
-curGame.frontTiles[1][6] = Tile.Crate();
-curGame.frontTiles[2][6] = Tile.Crate();
+// curGame.frontTiles[6][0] = Tile.Player();
+// curGame.frontTiles[6][1] = Tile.Player();
+// curGame.frontTiles[6][2] = Tile.Player();
+// curGame.frontTiles[6][3] = Tile.Player();
+// curGame.frontTiles[6][4] = Tile.Player();
 
-curGame.backTiles[4][4] = Tile.Door();
+// curGame.frontTiles[7][6] = Tile.Crate();
+// curGame.frontTiles[6][6] = Tile.Crate();
+// curGame.frontTiles[5][6] = Tile.Crate();
+// curGame.frontTiles[4][6] = Tile.Crate();
+// curGame.frontTiles[3][6] = Tile.Crate();
 
-curGame.name = "Name";
-curGame.superlvl = 2;
-curGame.sublvl = 5;
-console.log(JSON.stringify(curGame))
-curGame.draw(); 
+// curGame.backTiles[1][3] = Tile.Door();
+// curGame.backTiles[1][4] = Tile.Door();
+// curGame.backTiles[1][5] = Tile.Door();
+// curGame.backTiles[1][6] = Tile.Door();
+// curGame.backTiles[1][7] = Tile.Door();
+
+// curGame.name = "Name";
+// curGame.superlvl = 3;
+// curGame.sublvl = 1;
+// console.log(JSON.stringify(curGame))
+// curGame.draw(); 
